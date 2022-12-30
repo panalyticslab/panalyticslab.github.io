@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Purdue Analytics Lab"
   avatar           : "profile.png"
-  bio              : "Purdue Analytics Lab (PAL) is a research lab focusing on advanced data and decisions analytics methods."
-  location         : "Krannert School of Management, Purdue University"
+  bio              : "A lab for data and decision analytics research."
+  location         : "Purdue University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mVMQuBwAAAAJ"
-  email            :
+  email            : "zpang@purdue.edu"
   researchgate     :  
   uri              :
   bitbucket        :
