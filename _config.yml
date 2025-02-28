@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhan Pang"
   pronouns         : # example: "she/her"  
-  bio              : "Professor of Management\n Daniels School of Business"
+  bio              : "Professor of Management \\ Daniels School of Business"
   employer         : "Purdue University"
   location         : "West Lafayette, IN"
   uri              : # URL
