@@ -11,11 +11,13 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
+   
   - title: "Project"
     url: /project/
+
+
+  - title: "Teaching"
+    url: /teaching/    
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
