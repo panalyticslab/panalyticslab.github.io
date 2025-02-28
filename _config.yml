@@ -22,7 +22,7 @@ repository               : "panalyticslab/panalyticslab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myAvatar.png"
   name             : "Zhan Pang"
   pronouns         : # example: "she/her"  
   bio              : "Professor of Management \\ Daniels School of Business"
