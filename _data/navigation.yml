@@ -8,22 +8,23 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /research/ 
+
 #  - title: "Talks"
 #    url: /talks/    
 
-   
-  - title: "Project"
-    url: /project/
-
-
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Experiential Learning"
+    url: /experiential_learning/ 
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
